@@ -1,0 +1,9 @@
+"Nguyên tắc thứ tư là Phòng thủ theo chiều sâu. Ý tưởng là chúng ta không nên chỉ dựa vào một lớp bảo mật duy nhất."
+"Hãy hình dung một lâu đài thời trung cổ. Nó không chỉ có một bức tường, mà còn có hào nước, cầu rút, nhiều lớp tường thành, và lính gác bên trong. Nếu kẻ tấn công vượt qua được một lớp, họ sẽ gặp ngay lớp tiếp theo."
+"Trong hệ thống của chúng ta cũng vậy:
+Chúng ta có Firewall ở bên ngoài để chặn truy cập không mong muốn.
+Rồi đến Web Application Firewall (WAF) để bảo vệ ứng dụng web khỏi các tấn công phổ biến.
+Dữ liệu khi truyền đi phải được mã hóa (HTTPS).
+Trong chính ứng dụng, chúng ta có cơ chế xác thực và ủy quyền mạnh mẽ.
+Và cuối cùng, dữ liệu lưu trữ trong cơ sở dữ liệu cũng cần được mã hóa."
+"Mỗi lớp bảo mật này bổ sung cho nhau, giúp tăng cường khả năng chống chịu của hệ thống trước các cuộc tấn công."

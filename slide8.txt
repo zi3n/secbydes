@@ -1,0 +1,4 @@
+"Nguyên tắc đầu tiên và nền tảng: Mặc định là An toàn. Điều này có nghĩa là khi chúng ta thiết kế một tính năng, cài đặt, hay một hệ thống, hãy luôn đặt các thiết lập bảo mật cao nhất làm mặc định."
+"Nếu người dùng muốn thay đổi cài đặt này (tức là nới lỏng bảo mật), họ phải chủ động thực hiện việc đó, chứ không phải họ phải tự đi bật các tính năng bảo mật lên."
+"Ví dụ điển hình nhất là mật khẩu Wi-Fi của router mới mua: nó thường là một dãy ký tự ngẫu nhiên. Đây là ví dụ của 'security by default'. Trái lại, nếu mật khẩu mặc định là 'admin' hay '123456', đó chính là một lỗ hổng ngay từ đầu."
+"Tương tự, các ứng dụng của chúng ta cũng không nên tự động chia sẻ dữ liệu người dùng ra bên ngoài nếu không có sự cho phép rõ ràng."

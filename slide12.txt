@@ -1,0 +1,4 @@
+"Nguyên tắc thứ năm là Giảm thiểu bề mặt tấn công. Hãy hình dung hệ thống của chúng ta như một ngôi nhà. Bề mặt tấn công chính là tổng diện tích các cửa sổ, cửa ra vào, lỗ thông hơi... mà kẻ trộm có thể đột nhập."
+"Mục tiêu là thu hẹp 'cánh cửa' cho kẻ xấu. Chúng ta làm điều này bằng cách loại bỏ hoặc tắt đi bất kỳ chức năng, dịch vụ, hay cổng mạng nào không cần thiết."
+"Ví dụ, trên một máy chủ, nếu bạn không dùng đến dịch vụ FTP hay SSH, hãy tắt nó đi, đừng để nó chạy ngầm. Hay nếu một tính năng nào đó trong ứng dụng của bạn chỉ dùng để thử nghiệm và không được dùng trong môi trường sản phẩm thực tế, hãy loại bỏ nó trước khi triển khai."
+"Càng ít điểm tương tác không cần thiết, càng ít khả năng bị tấn công."
