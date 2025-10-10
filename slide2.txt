@@ -1,4 +1,0 @@
-"Buổi hôm nay sẽ có ba phần chính. Đầu tiên, chúng ta sẽ đi sâu vào lý do vì sao 'Secure by Design' lại quan trọng đến vậy."
-"Tiếp theo, chúng ta sẽ tìm hiểu 6 nguyên tắc vàng giúp chúng ta áp dụng tư duy bảo mật này vào thực tế."
-"Sau đó, chúng ta sẽ thảo luận về vai trò cụ thể của mỗi người trong việc xây dựng sản phẩm an toàn."
-"Và cuối cùng, chúng ta sẽ có thời gian cho phần Hỏi & Đáp, nơi mọi thắc mắc đều được hoan nghênh."

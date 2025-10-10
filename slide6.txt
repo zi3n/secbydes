@@ -1,6 +1,0 @@
-"Không chỉ là tránh những hậu quả xấu, việc áp dụng Secure by Design còn mang lại rất nhiều lợi ích tích cực."
-"Chúng ta sẽ giảm thiểu rủi ro một cách đáng kể, vì các lỗ hổng được phát hiện và xử lý ngay từ giai đoạn đầu."
-"Điều này dẫn đến việc tiết kiệm chi phí khổng lồ. Sửa một lỗi bảo mật ở giai đoạn thiết kế chỉ tốn vài giờ, nhưng khi sản phẩm đã ra mắt, chi phí có thể tăng gấp hàng chục, hàng trăm lần."
-"Sản phẩm của chúng ta cũng sẽ chất lượng hơn, đáng tin cậy hơn, vì nó được xây dựng trên một nền tảng vững chắc."
-"Và tất nhiên, nó sẽ tăng cường uy tín của công ty chúng ta, giúp xây dựng niềm tin vững chắc với khách hàng và đối tác."
-"Cuối cùng, việc này giúp chúng ta dễ dàng tuân thủ các quy định pháp lý về bảo mật, tránh được những rắc rối không đáng có."

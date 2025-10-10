@@ -1,4 +1,0 @@
-"Nguyên tắc thứ hai là Nguyên tắc đặc quyền tối thiểu (PoLP). Ý tưởng là 'chỉ cấp đủ quyền, không hơn'."
-"Điều này có nghĩa là mỗi cá nhân, mỗi hệ thống, hoặc mỗi phần mềm chỉ nên được cấp những quyền hạn tối thiểu nhất mà họ cần để hoàn thành công việc của mình. Nếu họ không cần quyền nào, thì không nên cấp."
-"Ví dụ trong công ty: một nhân viên chăm sóc khách hàng cần xem thông tin khách hàng, nhưng họ có cần quyền truy cập vào bảng lương của toàn công ty không? Chắc chắn là không. Việc cấp quyền thừa sẽ tạo ra nguy cơ nếu tài khoản đó bị xâm phạm."
-"Tương tự với các ứng dụng: nếu một ứng dụng chỉ cần đọc dữ liệu từ cơ sở dữ liệu để hiển thị thông tin, thì tài khoản mà ứng dụng dùng để kết nối CSDL chỉ nên có quyền 'read' thôi, không nên có quyền 'write' hay 'delete'."

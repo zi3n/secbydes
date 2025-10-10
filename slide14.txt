@@ -1,7 +1,0 @@
-"Đến đây, có lẽ các bạn đã nhận ra rằng bảo mật không phải là công việc riêng của đội ngũ bảo mật hay IT."
-"Bảo mật là trách nhiệm của TẤT CẢ CHÚNG TA, của mỗi cá nhân trong công ty, từ những người đưa ra ý tưởng đến những người phát triển, kiểm thử và vận hành sản phẩm."
-"Product Owner và Business Analyst phải đảm bảo ngay từ khi định hình tính năng, các yếu tố bảo mật đã được xem xét và đưa vào yêu cầu."
-"Các lập trình viên phải viết mã an toàn, tuân thủ các nguyên tắc mã hóa an toàn, và sử dụng các thư viện, framework đã được kiểm định về an toàn."
-"Kiểm thử viên không chỉ kiểm tra tính năng mà còn phải chủ động kiểm tra cả lỗ hổng bảo mật, và báo cáo ngay lập tức."
-"Đội ngũ DevOps và SysAdmin phải đảm bảo hệ thống được cấu hình an toàn, mạng được bảo vệ, và tất cả các bản vá lỗi được áp dụng kịp thời."
-"Và Quản lý dự án có vai trò quan trọng trong việc đảm bảo nguồn lực, thời gian để các hoạt động bảo mật được thực hiện đầy đủ."

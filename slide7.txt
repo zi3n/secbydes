@@ -1,3 +1,0 @@
-"Vậy làm thế nào để chúng ta áp dụng Secure by Design vào công việc hàng ngày? Có 6 nguyên tắc cốt lõi mà chúng ta cần ghi nhớ."
-"Chúng ta sẽ đi sâu vào từng nguyên tắc một, với các ví dụ thực tế và minh họa để dễ hình dung."
-Gợi ý hình ảnh: Hình ảnh 6 viên đá quý, 6 bánh răng, 6 điểm trên một vòng tròn hoặc 6 biểu tượng đơn giản đại diện cho mỗi nguyên tắc.

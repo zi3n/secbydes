@@ -1,5 +1,0 @@
-"Cảm ơn tất cả các bạn đã dành thời gian tham gia buổi hôm nay."
-"Tôi hy vọng buổi chia sẻ này đã cung cấp cho các bạn một cái nhìn tổng quan về tầm quan trọng của Secure by Design và khơi gợi tinh thần trách nhiệm về bảo mật trong công việc hàng ngày của mỗi người."
-"Hãy nhớ rằng, bảo mật không phải là điểm đến, mà là một hành trình liên tục, và mỗi cá nhân chúng ta là một phần quan trọng trong hành trình đó. Cùng nhau, chúng ta sẽ tạo ra những sản phẩm không chỉ tuyệt vời về tính năng mà còn an toàn và đáng tin cậy."
-"Chúc các bạn một ngày làm việc hiệu quả!"
-Gợi ý hình ảnh: Biểu tượng bàn tay bắt tay, hình ảnh cả đội ngũ đang cùng nhau vươn tới mục tiêu an toàn, huy hiệu "Security Hero".

@@ -1,8 +1,0 @@
-"Bảo mật nên được coi là một tính năng cốt lõi của sản phẩm, không phải là một 'phụ kiện' được gắn vào sau cùng."
-"Hãy hình dung việc xây một ngôi nhà: Bạn sẽ xây móng vững chắc ngay từ đầu, hay xây xong rồi mới lo gia cố? Rõ ràng, việc xây móng từ đầu sẽ hiệu quả hơn rất nhiều."
-"Tương tự, Secure by Design có nghĩa là chúng ta phải đưa tư duy bảo mật vào mọi giai đoạn của dự án, từ khi ý tưởng còn sơ khai cho đến khi sản phẩm hoàn chỉnh."
-"Đây không phải là một bước kiểm tra cuối cùng, mà là một quy trình liên tục."
-Gợi ý hình ảnh:
-Hình ảnh một ngôi nhà đang xây dựng, với phần móng được làm rất kỹ lưỡng.
-So sánh hai hình ảnh: Một ngôi nhà với móng vững chắc (Build Right from Foundation) và một ngôi nhà với các thanh chống đỡ tạm bợ bên ngoài (Patching Later).
-Biểu tượng bánh răng có chữ "S" (Security) ở trung tâm, hoặc biểu tượng mạch tích hợp (circuit board) với bảo mật là phần không thể thiếu.

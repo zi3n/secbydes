@@ -1,5 +1,0 @@
-"Nguyên tắc thứ ba là Không tin tưởng đầu vào. Đây là một nguyên tắc cực kỳ quan trọng trong lập trình an toàn."
-"Nó có nghĩa là: bất cứ dữ liệu nào đến từ bên ngoài hệ thống của chúng ta – dù là từ người dùng nhập vào, hay từ một hệ thống bên thứ ba gửi sang – đều phải được coi là tiềm ẩn nguy hiểm."
-"Chúng ta phải luôn kiểm tra, xác thực và làm sạch (sanitize) nó một cách kỹ lưỡng trước khi xử lý. Hãy hình dung một kẻ tấn công có thể cố gắng chèn các đoạn mã độc hại vào ô nhập liệu của bạn."
-"Ví dụ, nếu bạn có một ô nhập tên, một người dùng bình thường sẽ nhập 'Nguyễn Văn A'. Nhưng một kẻ tấn công có thể nhập '; DROP TABLE users; -- (cú pháp SQL injection). Nếu ứng dụng của bạn không kiểm tra đầu vào, cơ sở dữ liệu có thể bị xóa!"
-"Hay đơn giản hơn là kiểm tra xem địa chỉ email có đúng định dạng không, số điện thoại có đủ chữ số không, hoặc một đoạn văn bản có vượt quá giới hạn ký tự cho phép không."

@@ -1,5 +1,0 @@
-"Nguyên tắc cuối cùng là Xử lý lỗi và ghi nhật ký an toàn. Đây là hai khía cạnh thường bị bỏ qua nhưng lại rất quan trọng."
-"Về xử lý lỗi: Khi có lỗi xảy ra trên ứng dụng, chúng ta tuyệt đối không được hiển thị các thông báo lỗi chi tiết cho người dùng cuối. Ví dụ, việc hiển thị tên cơ sở dữ liệu, tài khoản, hay chi tiết lỗi lập trình (stack trace) sẽ cung cấp thông tin quý giá cho kẻ tấn công."
-"Thay vào đó, hãy hiển thị một thông báo chung chung, thân thiện với người dùng như 'Đã xảy ra lỗi hệ thống, vui lòng thử lại sau'."
-"Về ghi nhật ký (logging): Việc ghi log rất quan trọng để chúng ta theo dõi hoạt động của hệ thống, phát hiện và điều tra các sự cố. Tuy nhiên, chúng ta không được ghi lại các thông tin nhạy cảm vào log, ví dụ như mật khẩu, số thẻ tín dụng, hoặc các thông tin cá nhân đặc biệt khác."
-"Đảm bảo log ghi đầy đủ các sự kiện quan trọng như đăng nhập thành công/thất bại, truy cập vào các tính năng nhạy cảm, hay các lỗi hệ thống lớn."

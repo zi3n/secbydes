@@ -1,5 +1,0 @@
-Ví dụ ngắn: "Tại sao chúng ta phải quan tâm đến điều này? Bởi vì hậu quả của một sự cố bảo mật là vô cùng lớn và đắt giá hơn chúng ta nghĩ rất nhiều."
-"Thiệt hại tài chính bao gồm chi phí để khắc phục, điều tra, bồi thường khách hàng, và đặc biệt là những khoản phạt khổng lồ khi vi phạm các quy định bảo vệ dữ liệu như Nghị định 13 hay các quy định khác."
-"Thiệt hại danh tiếng là thứ khó khôi phục nhất. Một sự cố lộ lọt dữ liệu có thể khiến khách hàng mất niềm tin, ảnh hưởng trực tiếp đến giá trị thương hiệu. 'Một lần bất tín, vạn lần bất tin' – câu này rất đúng trong lĩnh vực bảo mật."
-"Cuối cùng là thiệt hại pháp lý, dẫn đến kiện tụng và điều tra từ các cơ quan chức năng, gây tốn kém thời gian và nguồn lực."
-"Hãy nhớ đến các vụ việc như [ví dụ: lộ dữ liệu của Facebook, Equifax, hay các vụ tấn công ransomware làm tê liệt hệ thống của các tập đoàn lớn]... Những công ty này đã phải trả giá cực kỳ đắt vì không ưu tiên bảo mật từ đầu."

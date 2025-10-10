@@ -1,5 +1,0 @@
-Vậy vai trò của riêng bạn là gì Tôi muốn các bạn hãy coi mình như những 'Đặc vụ An toàn Thông tin' của công ty.
-Hãy phát triển một tư duy bảo mật Khi bạn thiết kế, khi bạn viết mã, khi bạn kiểm tra, hãy luôn tự hỏi 'Liệu có cách nào kẻ xấu có thể lợi dụng tính năng này, hay đoạn mã này, để gây hại không'
-Điều quan trọng nhất là báo cáo Nếu bạn phát hiện bất kỳ dấu hiệu, bất kỳ vấn đề hay nghi ngờ nào về bảo mật, dù nhỏ nhất, hãy báo cáo ngay lập tức cho [NgườiPhòng ban phụ trách bảo mật - Nêu rõ tên hoặc địa chỉ emailkênh liên lạc]. Đừng ngần ngại hay nghĩ rằng nó không quan trọng. Phát hiện sớm là chìa khóa!
-Hãy luôn học hỏi và cập nhật kiến thức về các mối đe dọa mới, các cách phòng chống mới.
-Và hãy chia sẻ những gì bạn học được với đồng nghiệp. Cùng nhau, chúng ta sẽ xây dựng một cộng đồng an toàn hơn.
